@@ -1,20 +1,4 @@
-# HW #1B - Configuring Servers
-#### Name: Vivek Bhat
-#### Unity ID: vbhat
-
-##Tasks
-- 30% Ansible scripts for configuring jenkins.
-- 30% Meeting constraints
-- 20% Concepts
-- 20% Screencast and following instructions
-
-##Task 1 & 2: Ansible Playbook
-
-PlayBook for configuring jenkins :
-
-* [site.yml](https://github.ncsu.edu/vbhat/HW1-B/blob/master/site.yml)  
-
-##Task 3: Concepts
+## Concepts
 
 ###Q1. What are some benefits of continuous integration?
 There are various benefits that the developers claim over the use of continuous integration. Some of them are:
@@ -69,7 +53,9 @@ There are various barriers to applying continuous integration in Proprietary con
 <ol>
 <li>Barriers to adopting CI</li>
 	<ul>
-	<li>Developers who wish to adopt technology solutions thatwill help them be more productive are often stymied byinstitutional hurdles.</li>
+	<li>Developers who wish to adopt technology solutions that
+will help them be more productive are often stymied by
+institutional hurdles.</li>
 
 </ul>
 
@@ -85,10 +71,3 @@ In some situations identifying the reason for build failure can become really di
 </li>
 
 </ol>
-
-##Task 4: Screencast
-
- Screencast of the assignment:
-
- * [Screencast](https://youtu.be/iGHKJgjOu4Q)  
-
